@@ -12,7 +12,7 @@ someOtherfoler/
 *.exe
 *.o
 *.so
-*.db
+#*.db
 
 
 
